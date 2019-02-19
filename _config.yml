@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 markdown: redcarpet
 baseurl: /jlb-test-site
-exclude: ['README.md']
+=======
+theme: jekyll-theme-slate
+>>>>>>> 9fc35f525a9c41468fac67847aa6bb332404760e
