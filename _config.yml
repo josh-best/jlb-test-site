@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /jlb-test-site
+exclude: ['README.md']
